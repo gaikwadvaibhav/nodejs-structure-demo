@@ -1,0 +1,17 @@
+{
+  "name": "node-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Vaibhav Gaikwad",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.0",
+    "password-hash": "^1.2.2"
+  }
+}
