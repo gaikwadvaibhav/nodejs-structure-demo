@@ -4,20 +4,21 @@
 
 ## Installation
 
-Use the package manager [npm](https://pip.pypa.io/en/stable/) to install .
+Use the package manager [npm](https://npmjs.com/) to install .
 
 ```bash
 npm install 
-npm install jsonwebtoken --save
-npm install bcryptjs --save
+npm install jsonwebtoken --save (Optional)
+npm install bcryptjs --save (Optional)
 ```
 
 ## Usage
-
-nodemon server 
+```bash
+> nodemon server 
 or
-node server.js
-Development server(Browser) - localhost:3000
+> node server.js
+
+# Development server(Browser) - localhost:3000
 ```
 
 ## Contributing
